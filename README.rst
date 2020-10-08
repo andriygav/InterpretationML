@@ -1,6 +1,6 @@
-####################################
-Train Machine Learning Visualisation
-####################################
+##############################################################
+Visualisation of Machine Learning Training  and Interpretation
+##############################################################
 
 Yellowbrick
 ===============
