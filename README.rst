@@ -22,6 +22,6 @@ TensorBoard
 Утилита для отслеживания моделей во время их обучения (оптимизации параметров).
 
 - `Документация <https://pytorch.org/docs/stable/tensorboard.html>`_.
-- `Пример для LSTM <https://github.com/andriygav/TrainVisualisation/blob/master/tensorboard/lstm.ipynb>`_.
-- `Пример для CNN <https://github.com/andriygav/TrainVisualisation/blob/master/tensorboard/cnn.ipynb>`_.
-- `Пример для FNN <https://github.com/andriygav/TrainVisualisation/blob/master/tensorboard/fnn.ipynb>`_.
+- `Пример для LSTM <https://github.com/andriygav/TrainVisualisation/blob/master/tensorboard/LSTM.ipynb>`_.
+- `Пример для CNN <https://github.com/andriygav/TrainVisualisation/blob/master/tensorboard/CNN.ipynb>`_.
+- `Пример для FNN <https://github.com/andriygav/TrainVisualisation/blob/master/tensorboard/FNN.ipynb>`_.
